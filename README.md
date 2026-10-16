@@ -1,4 +1,4 @@
-# 📊 Facebook & Instagram Ad Performance Analysis (Power BI)
+📊 FACEBOOK & INSTAGRAM AD PERFORMANCE ANALYSIS (POWER BI)
 
 An interactive **Power BI dashboard** that analyses paid advertising campaigns on **Facebook and Instagram (Meta)**. It tracks reach, engagement, conversions and budget utilisation, so the marketing team can see which platforms, ad formats, audiences and time slots perform best.
 
