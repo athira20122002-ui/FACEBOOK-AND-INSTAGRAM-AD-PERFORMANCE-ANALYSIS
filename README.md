@@ -217,13 +217,11 @@ A **dynamic metric parameter** lets the user switch the selected metric (Impress
 2. Install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (Windows).
 3. Open `FACEBOOK___INSTAGRAM_ANALYSIS.pbix`.
 4. Use the metric parameter and slicers to explore the report.
+   ------
+👩‍💻 Author
+Athira M
+   ------------
+
 
 ---
 
-## 👩‍💻 Author
-
-**Athira M**
-
----
-
-\
